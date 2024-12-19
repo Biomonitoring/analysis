@@ -1,6 +1,9 @@
+19 Dec 2024
+- Corrected variable names for triclosan (BBK_TCSX) and bisphenol A (BBK_BPA) measured as part of the GYM biobank project
+
 14 Jun 2024
-- Updated file and weights for LAB_BIHG in cycle 5 from EL and WGT_FULL to EL2 and WGT_EL2
+- Corrected file and weights for LAB_BIHG in cycle 5 from EL and WGT_FULL to EL2 and WGT_EL2
 
 29 Nov 2023
-- Updated conversion factor for urine creatinine from 11.32 to 11.312
+- Corrected conversion factor for urine creatinine from 11.32 to 11.312
 
