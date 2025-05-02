@@ -1,8 +1,12 @@
+02 May 2025
+- Added rows for HECS_ABC variables
+- Changed data file from GYM to HECS_GYM to align with HC SAS Grid
+
 19 Dec 2024
-- Corrected variable names for triclosan (BBK_TCSX) and bisphenol A (BBK_BPA) measured as part of the GYM biobank project
+- Corrected variable names for triclosan (BBK_TCSX) and bisphenol A (BBK_BPA) measured as part of the HECS_GYM biobank project
 
 14 Jun 2024
-- Corrected file and weights for LAB_BIHG in cycle 5 from EL and WGT_FULL to EL2 and WGT_EL2
+- Corrected data file and weights for LAB_BIHG in cycle 5 from EL and WGT_FULL to EL2 and WGT_EL2
 
 29 Nov 2023
 - Corrected conversion factor for urine creatinine from 11.32 to 11.312
