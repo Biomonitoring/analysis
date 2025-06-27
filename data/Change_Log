@@ -1,3 +1,6 @@
+27 Jun 2025
+- Corrected data file and weights for LAB_24DX in cycle 2 from HCLS and WGT_FULL to EU and WGT_EU
+
 02 May 2025
 - Added rows for HECS_ABC variables
 - Changed data file from GYM to HECS_GYM to align with HC SAS Grid
