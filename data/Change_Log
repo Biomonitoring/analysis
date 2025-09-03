@@ -1,3 +1,7 @@
+03 Sep 2025
+- Removed conversion units and conversion factor for LAB_PHEN in cycle 2
+- Corrected age range for LAB_COT in cycle 6 from 3-79 to 6-79
+
 17 Jul 2025
 - Changed units and conversion factor for LAB_BZN in cycles 1 and 2 from µg/L and × 65.39 to mg/L and × 0.06539
 - Changed units and conversion factor for LAB_UPB in cycles 1 and 2 from µg/dL and × 20.72 to µg/L and × 207.2
