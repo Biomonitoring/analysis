@@ -1,3 +1,6 @@
+04 Sep 2025
+- Corrected units for LAB_AS5, LAB_AS3, LAB_AC, LAB_AB, LAB_DMA, and LAB_MMA from µg/L to µg As/L in all cycles
+
 03 Sep 2025
 - Removed conversion units and conversion factor for LAB_PHEN in cycle 2
 - Corrected age range for LAB_COT in cycle 6 from 3-79 to 6-79
