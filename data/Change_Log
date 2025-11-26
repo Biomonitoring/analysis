@@ -1,3 +1,6 @@
+26 Nov 2025
+- Corrected LOD for LAB_BMN in cycle 1 from 10 nmol/L to 1 nmol/L
+
 04 Sep 2025
 - Corrected units for LAB_AS5, LAB_AS3, LAB_AC, LAB_AB, LAB_DMA, and LAB_MMA from µg/L to µg As/L in all cycles
 
