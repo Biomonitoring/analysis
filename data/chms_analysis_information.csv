@@ -1,0 +1,619 @@
+﻿Chemical_Group,Analyte,Matrix,Cycle,Ages,File,Variable,Weights,LOD,Units,LOD_Code,NA_Code,NS_Code,UL_Code,Convert_Units,Convert_Factor
+acrylamide,acrylamide haemoglobin adduct,blood,3,3-79,ACRY,LAB_ACRY,WGT_ACRY,11,pmol/g Hb,995,996,999,,,
+acrylamide,acrylamide haemoglobin adduct,blood,4,3-79,ACRY,LAB_ACRY,WGT_ACRY,11,pmol/g Hb,9995,9996,9999,,,
+acrylamide,acrylamide haemoglobin adduct,blood,5,3-79,ACP,LAB_ACRY,WGT_ACP,11,pmol/g Hb,9995,9996,9999,,,
+acrylamide,acrylamide haemoglobin adduct,blood,6,3-79,ACP,LAB_ACRY,WGT_ACP,11,pmol/g Hb,9995,9996,9999,,,
+acrylamide,glycidamide haemoglobin adduct,blood,3,3-79,ACRY,LAB_GHA,WGT_ACRY,23,pmol/g Hb,995,996,999,,,
+acrylamide,glycidamide haemoglobin adduct,blood,4,3-79,ACRY,LAB_GHA,WGT_ACRY,23,pmol/g Hb,9995,9996,9999,,,
+acrylamide,glycidamide haemoglobin adduct,blood,5,3-79,ACP,LAB_GHA,WGT_ACP,23,pmol/g Hb,9995,9996,9999,,,
+acrylamide,glycidamide haemoglobin adduct,blood,6,3-79,ACP,LAB_GHA,WGT_ACP,23,pmol/g Hb,9995,9996,9999,,,
+chlorophenols,"2,4-dichlorophenol (2,4-DCP)",urine,1,6-79,HCLS,LAB_24DC,WGT_FULL,0.3,µg/L,999.999995,999.999996,999.999999,,,
+chlorophenols,"2,4-dichlorophenol (2,4-DCP)",urine,2,3-79,EU,LAB_24DC,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+chlorophenols,"2,5-dichlorophenol (2,5-DCP)",urine,2,3-79,EU,LAB_25D,WGT_EU,0.3,µg/L,999999.95,999999.96,999999.99,,,
+chlorophenols,"2,4,5-trichlorophenol (2,4,5-TCP)",urine,2,3-79,EU,LAB_245T,WGT_EU,0.5,µg/L,999.95,999.96,999.99,,,
+chlorophenols,"2,4,6-trichlorophenol (2,4,6-TCP)",urine,2,3-79,EU,LAB_246T,WGT_EU,1,µg/L,999.5,999.6,999.9,,,
+chlorophenols,pentachlorophenol (PCP),urine,2,3-79,EU,LAB_PCP,WGT_EU,0.7,µg/L,9999.5,9999.6,9999.9,,,
+creatinine,creatinine,urine,1,6-79,HCLS,LAB_UCRE,WGT_FULL,0.3,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,2,3-79,HCL,LAB_UCRE,WGT_FULL,0.4,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,3,3-79,NEL,LAB_UCRE,WGT_FULL,0.44,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,4,3-79,NEL,LAB_UCRE,WGT_FULL,0.44,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,5,3-79,NEL,LAB_UCRE,WGT_FULL,0.44,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,6,3-79,NEL,LAB_UCRE,WGT_FULL,0.23,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+creatinine,creatinine,urine,7,3-79,NEL,LAB_UCRE,WGT_LAB,0.1,mmol/L,99.95,99.96,99.99,,mg/dL,× 11.312
+flame retardants: PBDEs,"4,4'-dibromodiphenyl ether (PBDE 15)",plasma,1,20-79,PBDE,PBD_015,WGT_PBDE,0.03,µg/L,9.9995,9.9996,9.9999,,,
+flame retardants: PBDEs,"2,2',4-tribromodiphenyl ether (PBDE 17)",plasma,1,20-79,PBDE,PBD_017,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,3',4-tribromodiphenyl ether (PBDE 25)",plasma,1,20-79,PBDE,PBD_025,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,4,4'-tribromodiphenyl ether (PBDE 28)",plasma,1,20-79,PBDE,PBD_028,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2',3,4-tribromodiphenyl ether (PBDE 33)",plasma,1,20-79,PBDE,PBD_033,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,2',4,4'-tetrabromodiphenyl ether (PBDE 47)",plasma,1,20-79,PBDE,PBD_047,WGT_PBDE,0.03,µg/L,99.99995,99.99996,99.99999,,,
+flame retardants: PBDEs,"2,2',4,4',5-pentabromodiphenyl ether (PBDE 99)",plasma,1,20-79,PBDE,PBD_099,WGT_PBDE,0.02,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,2',4,4',6-pentabromodiphenyl ether (PBDE 100)",plasma,1,20-79,PBDE,PBD_100,WGT_PBDE,0.02,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,2',4,4',5,5'-hexabromobiphenyl (PBB 153)",plasma,1,20-79,PBDE,PBB_153,WGT_PBDE,0.02,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: PBDEs,"2,2',4,4',5,5'-hexabromodiphenyl ether (PBDE 153)",plasma,1,20-79,PBDE,PBD_153,WGT_PBDE,0.02,µg/L,9.99995,9.99996,9.99999,,,
+flame retardants: organophosphates,bis-2(butoxyethyl) phosphate (BBOEP),urine,6,3-79,HECS_GYM,LAB_BBEP,WGT_HECS,0.15,µg/L,9.95,9.96,9.99,,,
+flame retardants: organophosphates,bis(2-chloropropyl) phosphate (BCIPP),urine,6,3-79,HECS_GYM,LAB_BCPP,WGT_HECS,0.047,µg/L,99.995,99.996,99.999,,,
+flame retardants: organophosphates,"bis(1,3-dichloro-2-propyl) phosphate (BDCIPP)",urine,6,3-79,HECS_GYM,LAB_BDPP,WGT_HECS,0.050,µg/L,99.995,99.996,99.999,,,
+flame retardants: organophosphates,diphenyl phosphate (DPHP),urine,6,3-79,HECS_GYM,LAB_DPHP,WGT_HECS,0.045,µg/L,999.995,999.996,999.999,,,
+flame retardants: organophosphates,di-o-tolyl phosphate (DoCP),urine,6,3-79,HECS_GYM,LAB_DOCP,WGT_HECS,0.052,µg/L,9.95,9.96,9.99,,,
+flame retardants: organophosphates,di-p-tolyl phosphate (DpCP),urine,6,3-79,HECS_GYM,LAB_DPCP,WGT_HECS,0.040,µg/L,9.995,9.996,9.999,,,
+metals and trace elements,aluminum,hair,5,20-59,HAIR,LAB_HAL,WGT_FULL,0.1,µg/g,999.95,999.96,999.99,,,
+metals and trace elements,antimony,urine,1,6-79,HCLS,LAB_USB,WGT_FULL,0.2,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1218
+metals and trace elements,antimony,urine,2,3-79,HCL,LAB_USB,WGT_FULL,0.2,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1218
+metals and trace elements,antimony,hair,5,20-59,HAIR,LAB_HSB,WGT_FULL,0.002,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,arsenate (arsenic [V] acid),urine,2,3-79,EU,LAB_AS5,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenate (arsenic [V] acid),urine,3,3-79,EU,LAB_AS5,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenate (arsenic [V] acid),urine,4,3-79,EU,LAB_AS5,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenate (arsenic [V] acid),urine,5,3-79,EU,LAB_AS5,WGT_EU,0.0019,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,arsenate (arsenic [V] acid),urine,6,3-79,EU,LAB_AS5,WGT_EU,0.0019,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,arsenic (total),blood,1,6-79,HCLS,LAB_BAS,WGT_FULL,3,nmol/L,9999.9995,9999.9996,9999.9999,,µg/L,× 0.07492
+metals and trace elements,arsenic (total),blood,7,1-79,EL_FULL,LAB_BAS,WGT_LAB,2.2,nmol/L,99999.5,99999.6,99999.9,,µg/L,× 0.07492
+metals and trace elements,arsenic (total),urine,1,6-79,HCLS,LAB_UAS,WGT_FULL,0.007,µmol/L,99.99995,99.99996,99.99999,,µg/L,× 74.92
+metals and trace elements,arsenic (total),urine,2,3-79,HCL,LAB_UAS,WGT_FULL,0.01,µmol/L,999.995,999.996,999.999,,µg/L,× 74.92
+metals and trace elements,arsenic (total),hair,5,20-59,HAIR,LAB_HAS,WGT_FULL,0.005,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,arsenite (arsenous [III] acid),urine,2,3-79,EU,LAB_AS3,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenite (arsenous [III] acid),urine,3,3-79,EU,LAB_AS3,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenite (arsenous [III] acid),urine,4,3-79,EU,LAB_AS3,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenite (arsenous [III] acid),urine,5,3-79,EU,LAB_AS3,WGT_EU,0.0033,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,arsenite (arsenous [III] acid),urine,6,3-79,EU,LAB_AS3,WGT_EU,0.0033,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine,urine,3,3-79,EU,LAB_AC,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine,urine,4,3-79,EU,LAB_AC,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine and arsenobetaine,urine,2,3-79,EU,LAB_AB,WGT_EU,0.01,µmol/L,999.995,999.996,999.999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine and arsenobetaine,urine,3,3-79,EU,LAB_AB,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine and arsenobetaine,urine,4,3-79,EU,LAB_AB,WGT_EU,0.01,µmol/L,99.995,99.996,99.999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine and arsenobetaine,urine,5,3-79,EU,LAB_AB,WGT_EU,0.0014,µmol/L,99.9995,99.9996,99.9999,,µg As/L,× 74.92
+metals and trace elements,arsenocholine and arsenobetaine,urine,6,3-79,EU,LAB_AB,WGT_EU,0.0014,µmol/L,99.99995,99.99996,99.99999,,µg As/L,× 74.92
+metals and trace elements,dimethylarsinic acid (DMA),urine,2,3-79,EU,LAB_DMA,WGT_EU,0.01,µmol/L,99.995,99.996,99.999,,µg As/L,× 74.92
+metals and trace elements,dimethylarsinic acid (DMA),urine,3,3-79,EU,LAB_DMA,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,dimethylarsinic acid (DMA),urine,4,3-79,EU,LAB_DMA,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,dimethylarsinic acid (DMA),urine,5,3-79,EU,LAB_DMA,WGT_EU,0.0019,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,dimethylarsinic acid (DMA),urine,6,3-79,EU,LAB_DMA,WGT_EU,0.0019,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,monomethylarsonic acid (MMA),urine,2,3-79,EU,LAB_MMA,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,monomethylarsonic acid (MMA),urine,3,3-79,EU,LAB_MMA,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,monomethylarsonic acid (MMA),urine,4,3-79,EU,LAB_MMA,WGT_EU,0.01,µmol/L,9.995,9.996,9.999,,µg As/L,× 74.92
+metals and trace elements,monomethylarsonic acid (MMA),urine,5,3-79,EU,LAB_MMA,WGT_EU,0.0018,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,monomethylarsonic acid (MMA),urine,6,3-79,EU,LAB_MMA,WGT_EU,0.0018,µmol/L,9.9995,9.9996,9.9999,,µg As/L,× 74.92
+metals and trace elements,barium,hair,5,20-59,HAIR,LAB_HBAM,WGT_FULL,0.03,µg/g,9999.995,9999.996,9999.999,,,
+metals and trace elements,beryllium,hair,5,20-59,HAIR,LAB_HBE,WGT_FULL,0.03,µg/g,9.995,9.996,9.999,,,
+metals and trace elements,bismuth,hair,5,20-59,HAIR,LAB_HBIS,WGT_FULL,0.01,µg/g,99.995,99.996,99.999,,,
+metals and trace elements,boron,urine,3,3-79,HECS_ABC,LAB_UBR,WGT_HECS,16,µmol/L,999995,999996,999999,,µg/L,× 10.81
+metals and trace elements,boron,urine,5,3-79,EU,LAB_UBR,WGT_EU,15,µmol/L,9995,9996,9999,,µg/L,× 10.81
+metals and trace elements,boron,urine,6,3-79,EU,LAB_UBR,WGT_EU,15,µmol/L,9995,9996,9999,,µg/L,× 10.81
+metals and trace elements,cadmium,blood,1,6-79,HCLS,LAB_BCD,WGT_FULL,0.4,nmol/L,999.99995,999.99996,999.99999,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,2,3-79,HCL,LAB_BCD,WGT_FULL,0.4,nmol/L,999.5,999.6,999.9,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,3,3-79,EL_FULL,LAB_BCD,WGT_FULL,0.71,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,4,3-79,EL_FULL,LAB_BCD,WGT_FULL,0.71,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,5,3-79,EL2,LAB_BCD,WGT_EL2,0.86,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,6,3-79,EL2,LAB_BCD,WGT_EL2,0.86,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,blood,7,1-79,EL_FULL,LAB_BCD,WGT_LAB,0.68,nmol/L,9999.99,9999.96,9999.95,,µg/L,× 0.1124
+metals and trace elements,cadmium,urine,1,6-79,HCLS,LAB_UCD,WGT_FULL,0.8,nmol/L,99.995,99.996,99.999,,µg/L,× 0.1124
+metals and trace elements,cadmium,urine,2,3-79,HCL,LAB_UCD,WGT_FULL,0.6,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.1124
+metals and trace elements,cadmium,urine,3,3-79,HECS_ABC,LAB_UCD,WGT_HECS,0.26,nmol/L,9999.95,9999.96,9999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,urine,5,3-79,EU,LAB_UCD,WGT_EU,0.59,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,urine,6,3-79,EU,LAB_UCD,WGT_EU,0.42,nmol/L,999.95,999.96,999.99,,µg/L,× 0.1124
+metals and trace elements,cadmium,hair,5,20-59,HAIR,LAB_HCD,WGT_FULL,0.01,µg/g,9.995,9.996,9.999,,,
+metals and trace elements,cesium,urine,2,3-79,HCL,LAB_UCS,WGT_FULL,1,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.1329
+metals and trace elements,chromium (VI),red blood cells,5,3-79,ACP,LAB_RBC,WGT_ACP,2.4,nmol/L,999.5,999.6,999.9,,µg/L,× 0.052
+metals and trace elements,chromium (VI),red blood cells,6,3-79,ACP,LAB_RBC,WGT_ACP,2.4,nmol/L,999.5,999.6,999.9,,µg/L,× 0.052
+metals and trace elements,chromium,hair,5,20-59,HAIR,LAB_HCR,WGT_FULL,0.02,µg/g,9.995,9.996,9.999,,,
+metals and trace elements,cobalt,blood,2,3-79,HCL,LAB_BCO,WGT_FULL,0.6,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.05893
+metals and trace elements,cobalt,urine,2,3-79,HCL,LAB_UCO,WGT_FULL,1,nmol/L,99999.95,99999.96,99999.99,,µg/L,× 0.05893
+metals and trace elements,cobalt,hair,5,20-59,HAIR,LAB_HCO,WGT_FULL,0.001,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,copper,blood,1,6-79,HCLS,LAB_BCU,WGT_FULL,0.01,µmol/L,99.995,99.996,99.999,,µg/L,× 63.55
+metals and trace elements,copper,blood,2,3-79,HCL,LAB_BCU,WGT_FULL,0.3,µmol/L,999.5,999.6,999.9,,µg/L,× 63.55
+metals and trace elements,copper,urine,1,6-79,HCLS,LAB_UCU,WGT_FULL,0.005,µmol/L,99.99995,99.99996,99.99999,,µg/L,× 63.55
+metals and trace elements,copper,urine,2,3-79,HCL,LAB_UCU,WGT_FULL,0.01,µmol/L,99.995,99.996,99.999,,µg/L,× 63.55
+metals and trace elements,copper,hair,5,20-59,HAIR,LAB_HCU,WGT_FULL,0.1,µg/g,9999.5,9999.6,9999.9,,,
+metals and trace elements,fluoride,urine,2,3-79,EU,LAB_FL,WGT_EU,1,µmol/L,9999.5,9999.6,9999.9,,mg/L,× 0.019
+metals and trace elements,fluoride,urine,3,3-79,FLP,LAB_FL,WGT_FLP,0.64,µmol/L,999.5,999.6,999.9,,mg/L,× 0.019
+metals and trace elements,fluoride,urine,4,3-79,FLP,LAB_FL,WGT_FLP,0.64,µmol/L,999.5,999.6,999.9,,mg/L,× 0.019
+metals and trace elements,fluoride,urine,5,3-79,HECS_GYM,LAB_FL,WGT_HECS,1.0,µmol/L,999.5,999.6,999.9,,mg/L,× 0.019
+metals and trace elements,fluoride,urine,6,3-79,HECS_GYM,LAB_FL,WGT_HECS,1.0,µmol/L,999.5,999.6,999.9,,mg/L,× 0.019
+metals and trace elements,fluoride,urine,7,3-79,EL_FULL,LAB_FL,WGT_LAB,2.6,µmol/L,9999.5,9999.6,9999.9,,mg/L,× 0.019
+metals and trace elements,lead,blood,1,6-79,HCLS,LAB_BPB,WGT_FULL,0.001,µmol/L,9.99995,9.99996,9.99999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,2,3-79,HCL,LAB_BPB,WGT_FULL,0.005,µmol/L,9.995,9.996,9.999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,3,3-79,EL,LAB_BPB,WGT_FULL,0.0078,µmol/L,9.9995,9.9996,9.9999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,4,3-79,EL,LAB_BPB,WGT_FULL,0.0078,µmol/L,9.9995,9.9996,9.9999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,5,3-79,EL2,LAB_BPB,WGT_EL2,0.0083,µmol/L,9.9995,9.9996,9.9999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,6,3-79,EL2,LAB_BPB,WGT_EL2,0.0083,µmol/L,9.9995,9.9996,9.9999,,µg/dL,× 20.72
+metals and trace elements,lead,blood,7,1-79,EL_FULL,LAB_BPB,WGT_LAB,0.0035,µmol/L,99.9995,99.9996,99.9999,,µg/dL,× 20.72
+metals and trace elements,lead,urine,1,6-79,HCLS,LAB_UPB,WGT_FULL,0.0005,µmol/L,9.999995,9.999996,9.999999,,µg/L,× 207.2
+metals and trace elements,lead,urine,2,3-79,HCL,LAB_UPB,WGT_FULL,0.001,µmol/L,9.9995,9.9996,9.9999,,µg/L,× 207.2
+metals and trace elements,lead,hair,5,20-59,HAIR,LAB_HPB,WGT_FULL,0.005,µg/g,9999.9995,9999.9996,9999.9999,,,
+metals and trace elements,lithium,hair,5,20-59,HAIR,LAB_HLI,WGT_FULL,0.01,µg/g,9.995,9.996,9.999,,,
+metals and trace elements,manganese,blood,1,6-79,HCLS,LAB_BMN,WGT_FULL,10,nmol/L,9999.995,9999.996,9999.999,,µg/L,× 0.05494
+metals and trace elements,manganese,blood,2,3-79,HCL,LAB_BMN,WGT_FULL,10,nmol/L,9995,9996,9999,,µg/L,× 0.05494
+metals and trace elements,manganese,blood,7,1-79,EL_FULL,LAB_BMN,WGT_LAB,17,nmol/L,99999.5,99999.6,99999.9,,µg/L,× 0.05494
+metals and trace elements,manganese,urine,1,6-79,HCLS,LAB_UMN,WGT_FULL,1,nmol/L,9999.9995,9999.9996,9999.9999,,µg/L,× 0.05494
+metals and trace elements,manganese,urine,2,3-79,HCL,LAB_UMN,WGT_FULL,3,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.05494
+metals and trace elements,manganese,hair,5,20-59,HAIR,LAB_HMN,WGT_FULL,0.02,µg/g,99.995,99.996,99.999,,,
+metals and trace elements,mercury (inorganic),blood,1,6-79,BIHG,LAB_BIHG,WGT_BIHG,2,nmol/L,999.995,999.996,999.999,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),blood,5,3-19,EL2,LAB_BIHG,WGT_EL2,1.1,nmol/L,99.5,99.6,99.9,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),blood,6,3-19,EL2,LAB_BIHG,WGT_EL2,1.1,nmol/L,99.95,99.96,99.99,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),blood,7,1-79,EL_FULL,LAB_BIHG,WGT_LAB,1.1,nmol/L,999.95,999.96,999.99,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),urine,1,6-79,HCLS,LAB_UHG,WGT_FULL,0.5,nmol/L,999.995,999.996,999.999,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),urine,3,3-79,EL,LAB_UHG,WGT_FULL,0.8,nmol/L,999.95,999.96,999.99,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),urine,4,3-79,EL,LAB_UHG,WGT_FULL,0.8,nmol/L,999.95,999.96,999.99,,µg/L,× 0.2006
+metals and trace elements,mercury (inorganic),urine,7,3-79,EL_FULL,LAB_UHG,WGT_LAB,1.8,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,1,6-79,HCLS,LAB_BHG,WGT_FULL,0.5,nmol/L,999.995,999.996,999.999,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,2,3-79,HCL,LAB_BHG,WGT_FULL,0.6,nmol/L,999.5,999.6,999.9,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,3,3-79,EL,LAB_BHG,WGT_FULL,2.1,nmol/L,999.5,999.6,999.9,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,4,3-79,EL,LAB_BHG,WGT_FULL,2.1,nmol/L,999.5,999.6,999.9,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,5,3-79,EL2,LAB_BHG,WGT_EL2,1,nmol/L,999.5,999.6,999.9,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,6,3-79,EL2,LAB_BHG,WGT_EL2,1,nmol/L,999.95,999.96,999.99,,µg/L,× 0.2006
+metals and trace elements,mercury (total),blood,7,1-79,EL_FULL,LAB_BHG,WGT_LAB,0.96,nmol/L,9999.95,9999.96,9999.99,,µg/L,× 0.2006
+metals and trace elements,mercury (total),hair,5,20-59,HAIR,LAB_HHG,WGT_FULL,0.005,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,methylmercury,blood,3,20-79,MEHG,LAB_MEHG,WGT_MEHG,0.9,nmol/L,999.95,999.96,999.99,,µg/L,× 0.21563
+metals and trace elements,methylmercury,blood,4,20-79,MEHG,LAB_MEHG,WGT_MEHG,0.9,nmol/L,999.95,999.96,999.99,,µg/L,× 0.21563
+metals and trace elements,methylmercury,blood,5,3-19,EL2,LAB_MEHG,WGT_EL2,0.9,nmol/L,999.95,999.96,999.99,,µg/L,× 0.21563
+metals and trace elements,methylmercury,blood,6,3-19,EL2,LAB_MEHG,WGT_EL2,0.9,nmol/L,999.95,999.96,999.99,,µg/L,× 0.21563
+metals and trace elements,methylmercury,blood,7,1-79,EL_FULL,LAB_MEHG,WGT_LAB,0.9,nmol/L,999.95,999.96,999.99,,µg/L,× 0.21563
+metals and trace elements,molybdenum,blood,1,6-79,HCLS,LAB_BMO,WGT_FULL,1,nmol/L,999.995,999.996,999.999,,µg/L,× 0.09594
+metals and trace elements,molybdenum,blood,2,3-79,HCL,LAB_BMO,WGT_FULL,1,nmol/L,999.5,999.6,999.9,,µg/L,× 0.09594
+metals and trace elements,molybdenum,urine,1,6-79,HCLS,LAB_UMO,WGT_FULL,1,nmol/L,9999.95,9999.96,9999.99,,µg/L,× 0.09594
+metals and trace elements,molybdenum,urine,2,3-79,HCL,LAB_UMO,WGT_FULL,10,nmol/L,999995,999996,999999,,µg/L,× 0.09594
+metals and trace elements,molybdenum,hair,5,20-59,HAIR,LAB_HMO,WGT_FULL,0.002,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,nickel,blood,1,6-79,HCLS,LAB_BNI,WGT_FULL,6,nmol/L,999.9995,999.9996,999.9999,,µg/L,× 0.05869
+metals and trace elements,nickel,blood,2,3-79,HCL,LAB_BNI,WGT_FULL,5,nmol/L,995,996,999,,µg/L,× 0.05869
+metals and trace elements,nickel,urine,1,6-79,HCLS,LAB_UNI,WGT_FULL,3,nmol/L,999.9995,999.9996,999.9999,,µg/L,× 0.05869
+metals and trace elements,nickel,urine,2,3-79,HCL,LAB_UNI,WGT_FULL,5,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.05869
+metals and trace elements,nickel,hair,5,20-59,HAIR,LAB_HNI,WGT_FULL,0.02,µg/g,999.995,999.996,999.999,,,
+metals and trace elements,platinum,hair,5,20-59,HAIR,LAB_HPT,WGT_FULL,0.001,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,selenium,blood,1,6-79,HCLS,LAB_BSE,WGT_FULL,0.1,µmol/L,9.9995,9.9996,9.9999,,µg/L,× 78.96
+metals and trace elements,selenium,blood,2,3-79,HCL,LAB_BSE,WGT_FULL,0.2,µmol/L,99.5,99.6,99.9,,µg/L,× 78.96
+metals and trace elements,selenium,blood,5,3-79,EL2,LAB_BSE,WGT_EL2,0.41,µmol/L,99.5,99.6,99.9,,µg/L,× 78.96
+metals and trace elements,selenium,blood,6,3-79,EL2,LAB_BSE,WGT_EL2,0.41,µmol/L,99.5,99.6,99.9,,µg/L,× 78.96
+metals and trace elements,selenium,blood,7,1-79,EL_FULL,LAB_BSE,WGT_LAB,0.54,µmol/L,99.95,99.96,99.99,,µg/L,× 78.96
+metals and trace elements,selenium,urine,1,6-79,HCLS,LAB_USE,WGT_FULL,0.08,µmol/L,9.9995,9.9996,9.9999,,µg/L,× 78.96
+metals and trace elements,selenium,urine,2,3-79,HCL,LAB_USE,WGT_FULL,0.05,µmol/L,99.95,99.96,99.99,,µg/L,× 78.96
+metals and trace elements,selenium,hair,5,20-59,HAIR,LAB_HSE,WGT_FULL,0.01,µg/g,999.995,999.996,999.999,,,
+metals and trace elements,silver,blood,2,3-79,HCL,LAB_BAG,WGT_FULL,0.5,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.1079
+metals and trace elements,silver,urine,2,3-79,HCL,LAB_UAG,WGT_FULL,1,nmol/L,99.5,99.6,99.9,,µg/L,× 0.1079
+metals and trace elements,silver,hair,5,20-59,HAIR,LAB_HAG,WGT_FULL,0.01,µg/g,9.995,9.996,9.999,,,
+metals and trace elements,tellurium,hair,5,20-59,HAIR,LAB_HTE,WGT_FULL,0.002,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,thallium,urine,2,3-79,HCL,LAB_UTI,WGT_FULL,0.1,nmol/L,999.95,999.96,999.99,,µg/L,× 0.2044
+metals and trace elements,thallium,hair,5,20-59,HAIR,LAB_HTL,WGT_FULL,0.0002,µg/g,9.99995,9.99996,9.99999,,,
+metals and trace elements,thorium,hair,5,20-59,HAIR,LAB_HTH,WGT_FULL,0.1,µg/g,9.95,9.96,9.99,,,
+metals and trace elements,tungsten,urine,2,3-79,HCL,LAB_UW,WGT_FULL,1,nmol/L,9999.5,9999.6,9999.9,,µg/L,× 0.1838
+metals and trace elements,uranium,blood,1,6-79,HCLS,LAB_BU,WGT_FULL,0.02,nmol/L,99.999995,99.999996,99.999999,,µg/L,× 0.2380
+metals and trace elements,uranium,blood,2,3-79,HCL,LAB_BU,WGT_FULL,0.03,nmol/L,99.95,99.96,99.99,,µg/L,× 0.2380
+metals and trace elements,uranium,urine,1,6-79,HCLS,LAB_UU,WGT_FULL,0.04,nmol/L,99.999995,99.999996,99.999999,,µg/L,× 0.2380
+metals and trace elements,uranium,urine,2,3-79,HCL,LAB_UU,WGT_FULL,0.04,nmol/L,99.95,99.96,99.99,,µg/L,× 0.2380
+metals and trace elements,uranium,hair,5,20-59,HAIR,LAB_HU,WGT_FULL,0.0015,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,vanadium,urine,1,6-79,HCLS,LAB_UV,WGT_FULL,2,nmol/L,999.95,999.96,999.99,,µg/L,× 0.05094
+metals and trace elements,vanadium,urine,2,3-79,HCL,LAB_UV,WGT_FULL,2,nmol/L,999.95,999.96,999.99,,µg/L,× 0.05094
+metals and trace elements,vanadium,hair,5,20-59,HAIR,LAB_HV,WGT_FULL,0.001,µg/g,9.9995,9.9996,9.9999,,,
+metals and trace elements,zinc,blood,1,6-79,HCLS,LAB_BZN,WGT_FULL,0.01,µmol/L,999.9995,999.9996,999.9999,,mg/L,× 0.06539
+metals and trace elements,zinc,blood,2,3-79,HCL,LAB_BZN,WGT_FULL,2,µmol/L,9995,9996,9999,,mg/L,× 0.06539
+metals and trace elements,zinc,urine,1,6-79,HCLS,LAB_UZN,WGT_FULL,0.2,µmol/L,99.995,99.996,99.999,,µg/L,× 65.39
+metals and trace elements,zinc,urine,2,3-79,HCL,LAB_UZN,WGT_FULL,0.2,µmol/L,9999.95,9999.96,9999.99,,µg/L,× 65.39
+metals and trace elements,zinc,hair,5,20-59,HAIR,LAB_HZN,WGT_FULL,5,µg/g,995,996,999,,,
+nicotine,cotinine,serum,6,6-79,EL,LAB_SCOT,WGT_FULL,0.005,µg/L,9999.9995,9999.9996,9999.9999,9999.9994,,
+nicotine,cotinine,serum,7,6-79,EL_FULL,LAB_SCOT,WGT_LAB,0.005,µg/L,9999.9995,9999.9996,9999.9999,,,
+nicotine,cotinine,urine,1,6-79,HCLS,LAB_COT,WGT_FULL,1,µg/L,9999.999995,9999.999996,9999.999999,,,
+nicotine,cotinine,urine,2,3-79,HCL,LAB_COT,WGT_FULL,1,µg/L,9999.5,9999.6,9999.9,,,
+nicotine,cotinine,urine,3,3-79,EL,LAB_COT,WGT_FULL,1.1,µg/L,9999.5,9999.6,9999.9,,,
+nicotine,cotinine,urine,4,3-79,EL,LAB_COT,WGT_FULL,1.1,µg/L,9999.5,9999.6,9999.9,,,
+nicotine,cotinine,urine,5,3-79,EL,LAB_COT,WGT_FULL,1.1,µg/L,9999.5,9999.6,9999.9,,,
+nicotine,cotinine,urine,6,6-79,TOB,LAB_COT,WGT_TOB,1.1,µg/L,9999.5,9999.6,9999.9,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutanoic acid (PFBA),plasma,2,12-79,EB,LAB_PFBA,WGT_EB,0.5,µg/L,99.5,99.6,99.9,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutanoic acid (PFBA),plasma,5,3-79,ACP,LAB_PFBA,WGT_ACP,0.075,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutanoic acid (PFBA),plasma,6,3-79,ACP,LAB_PFBA,WGT_ACP,0.075,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexanoic acid (PFHxA),plasma,2,12-79,EB,LAB_PFHA,WGT_EB,0.1,µg/L,9.5,9.6,9.9,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexanoic acid (PFHxA),plasma,5,3-79,ACP,LAB_PFHA,WGT_ACP,0.084,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexanoic acid (PFHxA),plasma,6,3-79,ACP,LAB_PFHA,WGT_ACP,0.084,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctanoic acid (PFOA),plasma,1,20-79,PFCS,LAB_PFOA,WGT_PFCS,0.3,µg/L,99.999995,99.999996,99.999999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctanoic acid (PFOA),plasma,2,12-79,EB,LAB_PFOA,WGT_EB,0.1,µg/L,999.95,999.96,999.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctanoic acid (PFOA),plasma,5,3-79,ACP,LAB_PFOA,WGT_ACP,0.066,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctanoic acid (PFOA),plasma,6,3-79,ACP,LAB_PFOA,WGT_ACP,0.066,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorononanoic acid (PFNA),plasma,2,12-79,EB,LAB_PFNA,WGT_EB,0.2,µg/L,999.95,999.96,999.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorononanoic acid (PFNA),plasma,5,3-79,ACP,LAB_PFNA,WGT_ACP,0.13,µg/L,999.95,999.96,999.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorononanoic acid (PFNA),plasma,6,3-79,ACP,LAB_PFNA,WGT_ACP,0.13,µg/L,99.995,99.996,99.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorodecanoic acid (PFDA),plasma,2,12-79,EB,LAB_PFDA,WGT_EB,0.1,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorodecanoic acid (PFDA),plasma,5,3-79,ACP,LAB_PFDA,WGT_ACP,0.092,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorodecanoic acid (PFDA),plasma,6,3-79,ACP,LAB_PFDA,WGT_ACP,0.092,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluoroundecanoic acid (PFundA),plasma,2,12-79,EB,LAB_PFUD,WGT_EB,0.09,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluoroundecanoic acid (PFundA),plasma,5,3-79,ACP,LAB_PFUD,WGT_ACP,0.12,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluoroundecanoic acid (PFundA),plasma,6,3-79,ACP,LAB_PFUD,WGT_ACP,0.12,µg/L,99.995,99.996,99.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutane sulfonate (PFBS),plasma,2,12-79,EB,LAB_PFBS,WGT_EB,0.4,µg/L,9999.99995,9999.99996,9999.99999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutane sulfonate (PFBS),plasma,5,3-79,ACP,LAB_PFBS,WGT_ACP,0.066,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorobutane sulfonate (PFBS),plasma,6,3-79,ACP,LAB_PFBS,WGT_ACP,0.066,µg/L,9.995,9.996,9.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexane sulfonate (PFHxS),plasma,1,20-79,PFCS,LAB_PFHS,WGT_PFCS,0.3,µg/L,999.999995,999.999996,999.999999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexane sulfonate (PFHxS),plasma,2,12-79,EB,LAB_PFHS,WGT_EB,0.2,µg/L,9999.95,9999.96,9999.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexane sulfonate (PFHxS),plasma,5,3-79,ACP,LAB_PFHS,WGT_ACP,0.063,µg/L,999.995,999.996,999.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorohexane sulfonate (PFHxS),plasma,6,3-79,ACP,LAB_PFHS,WGT_ACP,0.063,µg/L,999.995,999.996,999.999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctane sulfonate (PFOS),plasma,1,20-79,PFCS,LAB_PFOS,WGT_PFCS,0.3,µg/L,999.999995,999.999996,999.999999,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctane sulfonate (PFOS),plasma,2,12-79,EB,LAB_PFOS,WGT_EB,0.3,µg/L,999.5,999.6,999.9,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctane sulfonate (PFOS),plasma,5,3-79,ACP,LAB_PFOS,WGT_ACP,0.43,µg/L,99.95,99.96,99.99,,,
+per- and polyfluoroalkyl substances (PFAS),perfluorooctane sulfonate (PFOS),plasma,6,3-79,ACP,LAB_PFOS,WGT_ACP,0.43,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,"4,4′-biphenol",urine,4,3-79,HECS_GYM,LAB_BP44,WGT_HECS,0.040,µg/L,99.995,99.996,99.999,,,
+personal care and consumer product chemicals,"4,4′-biphenol",urine,5,3-79,HECS_GYM,LAB_BP44,WGT_HECS,0.040,µg/L,99.995,99.996,99.999,,,
+personal care and consumer product chemicals,"4,4′-biphenol",urine,6,3-79,HECS_GYM,LAB_BP44,WGT_HECS,0.040,µg/L,99.995,99.996,99.999,,,
+personal care and consumer product chemicals,"4,4′-biphenol",urine,7,3-79,EL_FULL,LAB_BP44,WGT_LAB,0.046,µg/L,9999.995,9999.996,9999.999,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,1,6-79,HCLS,LAB_BPA,WGT_FULL,0.2,µg/L,999.9995,999.9996,999.9999,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,2,3-79,EU,LAB_BPA,WGT_EU,0.2,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,3,3-79,EL,LAB_BPA,WGT_FULL,0.23,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,4,3-79,EU,LAB_BPA,WGT_EU,0.23,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,5,3-79,EU,LAB_BPA,WGT_EU,0.32,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,6,3-79,EU,LAB_BPA,WGT_EU,0.32,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,4,3-79,HECS_GYM,BBK_BPA,WGT_HECS,0.016,µg/L,9999.995,9999.996,9999.999,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,5,3-79,HECS_GYM,BBK_BPA,WGT_HECS,0.016,µg/L,9999.995,9999.996,9999.999,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,6,3-79,HECS_GYM,BBK_BPA,WGT_HECS,0.016,µg/L,9999.995,9999.996,9999.999,,,
+personal care and consumer product chemicals,bisphenol A (BPA),urine,7,3-79,EL_FULL,LAB_BPA,WGT_LAB,0.021,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol AF (BPAF),urine,4,3-79,HECS_GYM,LAB_BPAF,WGT_HECS,0.062,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol AF (BPAF),urine,5,3-79,HECS_GYM,LAB_BPAF,WGT_HECS,0.062,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol AF (BPAF),urine,6,3-79,HECS_GYM,LAB_BPAF,WGT_HECS,0.062,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol AF (BPAF),urine,7,3-79,EL_FULL,LAB_BPAF,WGT_LAB,0.067,µg/L,99.995,99.996,99.999,,,
+personal care and consumer product chemicals,bisphenol B (BPB),urine,4,3-79,HECS_GYM,LAB_BPHB,WGT_HECS,0.0056,µg/L,9.9995,9.9996,9.9999,,,
+personal care and consumer product chemicals,bisphenol B (BPB),urine,5,3-79,HECS_GYM,LAB_BPHB,WGT_HECS,0.0056,µg/L,9.9995,9.9996,9.9999,,,
+personal care and consumer product chemicals,bisphenol B (BPB),urine,6,3-79,HECS_GYM,LAB_BPHB,WGT_HECS,0.0056,µg/L,9.9995,9.9996,9.9999,,,
+personal care and consumer product chemicals,bisphenol B (BPB),urine,7,3-79,EL_FULL,LAB_BPHB,WGT_LAB,0.0068,µg/L,9.9995,9.9996,9.9999,,,
+personal care and consumer product chemicals,bisphenol E (BPE),urine,4,3-79,HECS_GYM,LAB_BPE,WGT_HECS,0.0025,µg/L,99.9995,99.9996,99.9999,,,
+personal care and consumer product chemicals,bisphenol E (BPE),urine,5,3-79,HECS_GYM,LAB_BPE,WGT_HECS,0.0025,µg/L,99.9995,99.9996,99.9999,,,
+personal care and consumer product chemicals,bisphenol E (BPE),urine,6,3-79,HECS_GYM,LAB_BPE,WGT_HECS,0.0025,µg/L,99.9995,99.9996,99.9999,,,
+personal care and consumer product chemicals,bisphenol E (BPE),urine,7,3-79,EL_FULL,LAB_BPE,WGT_LAB,0.0079,µg/L,9.9995,9.9996,9.9999,,,
+personal care and consumer product chemicals,bisphenol F (BPF),urine,4,3-79,HECS_GYM,LAB_BPF,WGT_HECS,0.039,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol F (BPF),urine,5,3-79,HECS_GYM,LAB_BPF,WGT_HECS,0.039,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol F (BPF),urine,6,3-79,HECS_GYM,LAB_BPF,WGT_HECS,0.039,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol F (BPF),urine,7,3-79,EL_FULL,LAB_BPF,WGT_LAB,0.028,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol S (BPS),urine,4,3-79,HECS_GYM,LAB_BPS,WGT_HECS,0.038,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol S (BPS),urine,5,3-79,HECS_GYM,LAB_BPS,WGT_HECS,0.038,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol S (BPS),urine,6,3-79,HECS_GYM,LAB_BPS,WGT_HECS,0.038,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol S (BPS),urine,7,3-79,EL_FULL,LAB_BPS,WGT_LAB,0.016,µg/L,999.995,999.996,999.999,,,
+personal care and consumer product chemicals,bisphenol Z (BPZ),urine,4,3-79,HECS_GYM,LAB_BPZ,WGT_HECS,0.022,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol Z (BPZ),urine,5,3-79,HECS_GYM,LAB_BPZ,WGT_HECS,0.022,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol Z (BPZ),urine,6,3-79,HECS_GYM,LAB_BPZ,WGT_HECS,0.022,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,bisphenol Z (BPZ),urine,7,3-79,EL_FULL,LAB_BPZ,WGT_LAB,0.026,µg/L,9.995,9.996,9.999,,,
+personal care and consumer product chemicals,butyl paraben,urine,3,3-79,EU2,LAB_UBPN,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,butyl paraben,urine,4,3-79,EU,LAB_UBPN,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,butyl paraben,urine,5,3-79,EU,LAB_UBPN,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,butyl paraben,urine,6,3-79,EU,LAB_UBPN,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+personal care and consumer product chemicals,ethyl paraben,urine,3,3-79,EU2,LAB_UEPN,WGT_EU,0.9,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,ethyl paraben,urine,4,3-79,EU,LAB_UEPN,WGT_EU,0.9,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,ethyl paraben,urine,5,3-79,EU,LAB_UEPN,WGT_EU,0.9,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,ethyl paraben,urine,6,3-79,EU,LAB_UEPN,WGT_EU,0.9,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,methyl paraben,urine,3,3-79,EU2,LAB_UMPN,WGT_EU,1.3,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,methyl paraben,urine,4,3-79,EU,LAB_UMPN,WGT_EU,1.3,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,methyl paraben,urine,5,3-79,EU,LAB_UMPN,WGT_EU,1.3,µg/L,99999.5,99999.6,99999.9,,,
+personal care and consumer product chemicals,methyl paraben,urine,6,3-79,EU,LAB_UMPN,WGT_EU,1.3,µg/L,99999.5,99999.6,99999.9,,,
+personal care and consumer product chemicals,propyl paraben,urine,3,3-79,EU2,LAB_UPPN,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,propyl paraben,urine,4,3-79,EU,LAB_UPPN,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,propyl paraben,urine,5,3-79,EU,LAB_UPPN,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,propyl paraben,urine,6,3-79,EU,LAB_UPPN,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+personal care and consumer product chemicals,triclocarban,urine,2,3-79,EU,LAB_TCC,WGT_EU,1,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,triclosan,urine,2,3-79,EU,LAB_TCS,WGT_EU,3,µg/L,99995,99996,99999,,,
+personal care and consumer product chemicals,triclosan,urine,3,3-79,EL,LAB_TCS,WGT_FULL,4.8,µg/L,99999.5,99999.6,99999.9,,,
+personal care and consumer product chemicals,triclosan,urine,4,3-79,EU,LAB_TCS,WGT_EU,4.8,µg/L,99999.5,99999.6,99999.9,,,
+personal care and consumer product chemicals,triclosan,urine,4,3-79,HECS_GYM,BBK_TCSX,WGT_HECS,1.0,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,triclosan,urine,5,3-79,HECS_GYM,BBK_TCSX,WGT_HECS,1.0,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,triclosan,urine,6,3-79,HECS_GYM,BBK_TCSX,WGT_HECS,1.0,µg/L,9999.5,9999.6,9999.9,,,
+personal care and consumer product chemicals,triclosan,urine,7,3-79,EL_FULL,LAB_TCSX,WGT_LAB,1.0,µg/L,9999.95,9999.96,9999.99,,,
+pesticides: carbamates,carbofuranphenol,urine,2,3-79,EU,LAB_CFP,WGT_EU,0.1,µg/L,9.5,9.6,9.9,,,
+pesticides: carbamates,2-isopropoxyphenol,urine,2,3-79,EU,LAB_IPOP,WGT_EU,0.05,µg/L,99.95,99.96,99.99,,,
+pesticides: DEET,"n,n-diethyl-m-toluamide (DEET)",urine,4,3-79,HECS_GYM,LAB_DEET,WGT_HECS,0.27,µg/L,999.95,999.96,999.99,,,
+pesticides: DEET,"n,n-diethyl-m-toluamide (DEET)",urine,6,3-79,HECS_GYM,LAB_DEET,WGT_HECS,0.27,µg/L,999.95,999.96,999.99,,,
+pesticides: DEET,"m-[(n,n-diethylamino)carbonyl] benzoic acid (DCBA)",urine,4,3-79,HECS_GYM,LAB_DCBA,WGT_HECS,0.41,µg/L,99999.95,99999.96,99999.99,,,
+pesticides: DEET,"m-[(n,n-diethylamino)carbonyl] benzoic acid (DCBA)",urine,6,3-79,HECS_GYM,LAB_DCBA,WGT_HECS,0.41,µg/L,99999.95,99999.96,99999.99,,,
+pesticides: DEET,"n,n-diethyl-m-hydroxymethylbenzamide (DHMB)",urine,4,3-79,HECS_GYM,LAB_DHMB,WGT_HECS,0.038,µg/L,999.995,999.996,999.999,,,
+pesticides: DEET,"n,n-diethyl-m-hydroxymethylbenzamide (DHMB)",urine,6,3-79,HECS_GYM,LAB_DHMB,WGT_HECS,0.038,µg/L,999.995,999.996,999.999,,,
+pesticides: fungicides,ethylene thiourea (ETU),urine,3,3-79,HECS_ABC,LAB_ETU,WGT_HECS,0.033,µg/L,999.995,999.996,999.999,,,
+pesticides: fungicides,ethylene thiourea (ETU),urine,5,3-79,EU,LAB_ETU,WGT_EU,0.033,µg/L,99.995,99.996,99.999,,,
+pesticides: fungicides,ethylene thiourea (ETU),urine,6,3-79,EU,LAB_ETU,WGT_EU,0.033,µg/L,999.995,999.996,999.999,,,
+pesticides: fungicides,ortho-phenylphenol-glucuronide (OPP-G),urine,3,3-79,HECS_ABC,LAB_OPPG,WGT_HECS,0.15,µg/L,999.95,999.96,999.99,,,
+pesticides: fungicides,ortho-phenylphenol-glucuronide (OPP-G),urine,5,3-79,EU,LAB_OPPG,WGT_EU,0.15,µg/L,99.95,99.96,99.99,,,
+pesticides: fungicides,ortho-phenylphenol-glucuronide (OPP-G),urine,6,3-79,EU,LAB_OPPG,WGT_EU,0.15,µg/L,99.95,99.96,99.99,,,
+pesticides: fungicides,ortho-phenylphenol-sulfate (OPP-S),urine,3,3-79,HECS_ABC,LAB_OPPS,WGT_HECS,0.092,µg/L,999.95,999.96,999.99,,,
+pesticides: fungicides,ortho-phenylphenol-sulfate (OPP-S),urine,5,3-79,EU,LAB_OPPS,WGT_EU,0.092,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: fungicides,ortho-phenylphenol-sulfate (OPP-S),urine,6,3-79,EU,LAB_OPPS,WGT_EU,0.092,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: herbicides,"2,4-dichlorophenoxyacetic acid (2,4-D)",urine,1,6-79,HCLS,LAB_24DX,WGT_FULL,0.2,µg/L,99.99995,99.99996,99.99999,,,
+pesticides: herbicides,"2,4-dichlorophenoxyacetic acid (2,4-D)",urine,2,3-79,EU,LAB_24DX,WGT_EU,0.2,µg/L,999.95,999.96,999.99,,,
+pesticides: herbicides,"2,4-dichlorophenoxyacetic acid (2,4-D)",urine,6,3-79,HECS_GYM,LAB_24DX,WGT_HECS,0.10,µg/L,99.95,99.96,99.99,,,
+pesticides: herbicides,atrazine mercapturate (AM),urine,2,3-79,EU,LAB_AMC,WGT_EU,0.03,µg/L,9.95,9.96,9.99,,,
+pesticides: herbicides,desethylatrazine (DEA),urine,2,3-79,EU,LAB_DET,WGT_EU,0.2,µg/L,9999.99995,9999.99996,9999.99999,,,
+pesticides: herbicides,diaminochlorotriazine (DACT),urine,2,3-79,EU,LAB_DCT,WGT_EU,1,µg/L,9999.99995,9999.99996,9999.99999,,,
+pesticides: herbicides,glyphosate,urine,4,3-79,HECS_GYM,LAB_GLYP,WGT_HECS,0.077,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,glyphosate,urine,5,3-79,HECS_GYM,LAB_GLYP,WGT_HECS,0.077,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,glyphosate,urine,6,3-79,HECS_GYM,LAB_GLYP,WGT_HECS,0.077,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,aminomethylphosphonic acid (AMPA),urine,4,3-79,HECS_GYM,LAB_AMPA,WGT_HECS,0.086,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,aminomethylphosphonic acid (AMPA),urine,5,3-79,HECS_GYM,LAB_AMPA,WGT_HECS,0.086,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,aminomethylphosphonic acid (AMPA),urine,6,3-79,HECS_GYM,LAB_AMPA,WGT_HECS,0.086,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,glufosinate,urine,4,3-79,HECS_GYM,LAB_GLUF,WGT_HECS,0.084,µg/L,9.95,9.96,9.99,,,
+pesticides: herbicides,glufosinate,urine,5,3-79,HECS_GYM,LAB_GLUF,WGT_HECS,0.084,µg/L,9.95,9.96,9.99,,,
+pesticides: herbicides,glufosinate,urine,6,3-79,HECS_GYM,LAB_GLUF,WGT_HECS,0.084,µg/L,9.95,9.96,9.99,,,
+pesticides: herbicides,3-methylphosphinicopropionicacid (MPPA),urine,4,3-79,HECS_GYM,LAB_MPPA,WGT_HECS,0.095,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,3-methylphosphinicopropionicacid (MPPA),urine,5,3-79,HECS_GYM,LAB_MPPA,WGT_HECS,0.095,µg/L,99.995,99.996,99.999,,,
+pesticides: herbicides,3-methylphosphinicopropionicacid (MPPA),urine,6,3-79,HECS_GYM,LAB_MPPA,WGT_HECS,0.095,µg/L,99.995,99.996,99.999,,,
+pesticides: organochlorines,aldrin,plasma,1,20-79,PBDE,LAB_ALD,WGT_PBDE,0.01,µg/L,9.995,9.996,9.999,,,
+pesticides: organochlorines,alpha-chlordane,plasma,1,20-79,PBDE,LAB_ACHL,WGT_PBDE,0.01,µg/L,9.995,9.996,9.999,,,
+pesticides: organochlorines,gamma-chlordane,plasma,1,20-79,PBDE,LAB_GCHL,WGT_PBDE,0.005,µg/L,9.9995,9.9996,9.9999,,,
+pesticides: organochlorines,"p,p'-dichlorodiphenyldichloroethylene (p,p'-DDE)",plasma,1,20-79,PBDE,LAB_DDE,WGT_PBDE,0.09,µg/L,999.99995,999.99996,999.99999,,,
+pesticides: organochlorines,"p,p'-dichlorodiphenyltrichloroethane (p,p'-DDT)",plasma,1,20-79,PBDE,LAB_DDT,WGT_PBDE,0.05,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,hexachlorobenzene,plasma,1,20-79,PBDE,LAB_HCB,WGT_PBDE,0.04,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,beta-hexachlorocyclohexane,plasma,1,20-79,PBDE,LAB_BHCH,WGT_PBDE,0.01,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: organochlorines,gamma-hexachlorocyclohexane (Lindane),plasma,1,20-79,PBDE,LAB_GHCH,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+pesticides: organochlorines,mirex,plasma,1,20-79,PBDE,LAB_MIRX,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,oxychlordane,plasma,1,20-79,PBDE,LAB_OCHL,WGT_PBDE,0.005,µg/L,9.9995,9.9996,9.9999,,,
+pesticides: organochlorines,cis-nonachlor,plasma,1,20-79,PBDE,LAB_CNAC,WGT_PBDE,0.005,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,trans-nonachlor,plasma,1,20-79,PBDE,LAB_TNAC,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,toxaphene parlar 26,plasma,1,20-79,PBDE,PAR_26,WGT_PBDE,0.005,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organochlorines,toxaphene parlar 50,plasma,1,20-79,PBDE,PAR_50,WGT_PBDE,0.005,µg/L,9.99995,9.99996,9.99999,,,
+pesticides: organophosphates,acephate,urine,3,3-79,EU2,LAB_UAPH,WGT_EU,0.018,µg/L,99.995,99.996,99.999,,,
+pesticides: organophosphates,methamidophos,urine,3,3-79,EU2,LAB_UMDP,WGT_EU,0.028,µg/L,9.995,9.996,9.999,,,
+pesticides: organophosphates,"3,5,6-trichloro-2-pyridinol",urine,3,3-79,EU2,LAB_UTCP,WGT_EU,0.13,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,"3,5,6-trichloro-2-pyridinol",urine,4,3-79,EU,LAB_UTCP,WGT_EU,0.13,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,"3,5,6-trichloro-2-pyridinol",urine,5,3-79,HECS_ABC,LAB_UTCP,WGT_HECS,0.13,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,2-Isopropyl-4-methyl-6-hydroxypyrimidine (IMPY),urine,4,3-79,HECS_GYM,LAB_IMPY,WGT_HECS,0.13,µg/L,99.95,99.96,99.99,,,
+pesticides: organophosphates,2-Isopropyl-4-methyl-6-hydroxypyrimidine (IMPY),urine,6,3-79,HECS_GYM,LAB_IMPY,WGT_HECS,0.13,µg/L,99.95,99.96,99.99,,,
+pesticides: organophosphates,malathion dicarboxylic acid,urine,3,3-79,EU2,LAB_UMDA,WGT_EU,0.19,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,malathion dicarboxylic acid,urine,4,3-79,EU,LAB_UMDA,WGT_EU,0.19,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethylphosphate (DEP),urine,1,6-79,HCLS,LAB_DEP,WGT_FULL,1,µg/L,999.999995,999.999996,999.999999,,,
+pesticides: organophosphates,diethylphosphate (DEP),urine,2,3-79,EU,LAB_DEP,WGT_EU,1,µg/L,9999.5,9999.6,9999.9,,,
+pesticides: organophosphates,diethylphosphate (DEP),urine,5,3-79,EU,LAB_DEP,WGT_EU,0.29,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethylphosphate (DEP),urine,6,3-79,EU,LAB_DEP,WGT_EU,0.29,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethylthiophosphate (DETP),urine,1,6-79,HCLS,LAB_DETP,WGT_FULL,0.6,µg/L,999.999995,999.999996,999.999999,,,
+pesticides: organophosphates,diethylthiophosphate (DETP),urine,2,3-79,EU,LAB_DETP,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethylthiophosphate (DETP),urine,5,3-79,EU,LAB_DETP,WGT_EU,0.13,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethylthiophosphate (DETP),urine,6,3-79,EU,LAB_DETP,WGT_EU,0.13,µg/L,999.995,999.996,999.999,,,
+pesticides: organophosphates,diethyldithiophosphate (DEDTP),urine,1,6-79,HCLS,LAB_DEDT,WGT_FULL,0.3,µg/L,99.999995,99.999996,99.999999,,,
+pesticides: organophosphates,diethyldithiophosphate (DEDTP),urine,2,3-79,EU,LAB_DEDT,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,diethyldithiophosphate (DEDTP),urine,5,3-79,EU,LAB_DEDT,WGT_EU,0.067,µg/L,99.995,99.996,99.999,,,
+pesticides: organophosphates,diethyldithiophosphate (DEDTP),urine,6,3-79,EU,LAB_DEDT,WGT_EU,0.067,µg/L,99.995,99.996,99.999,,,
+pesticides: organophosphates,dimethylphosphate (DMP),urine,1,6-79,HCLS,LAB_DMP,WGT_FULL,1,µg/L,999.99995,999.99996,999.99999,,,
+pesticides: organophosphates,dimethylphosphate (DMP),urine,2,3-79,EU,LAB_DMP,WGT_EU,1,µg/L,9999.5,9999.6,9999.9,,,
+pesticides: organophosphates,dimethylphosphate (DMP),urine,5,3-79,EU,LAB_DMP,WGT_EU,0.58,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,dimethylphosphate (DMP),urine,6,3-79,EU,LAB_DMP,WGT_EU,0.58,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,dimethylthiophosphate (DMTP),urine,1,6-79,HCLS,LAB_DMTP,WGT_FULL,0.6,µg/L,999.999995,999.999996,999.999999,,,
+pesticides: organophosphates,dimethylthiophosphate (DMTP),urine,2,3-79,EU,LAB_DMTP,WGT_EU,0.6,µg/L,9999.5,9999.6,9999.9,,,
+pesticides: organophosphates,dimethylthiophosphate (DMTP),urine,5,3-79,EU,LAB_DMTP,WGT_EU,0.44,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,dimethylthiophosphate (DMTP),urine,6,3-79,EU,LAB_DMTP,WGT_EU,0.44,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,dimethyldithiophosphate (DMDTP),urine,1,6-79,HCLS,LAB_DMDT,WGT_FULL,0.3,µg/L,999.999995,999.999996,999.999999,,,
+pesticides: organophosphates,dimethyldithiophosphate (DMDTP),urine,2,3-79,EU,LAB_DMDT,WGT_EU,0.3,µg/L,999.95,999.96,999.99,,,
+pesticides: organophosphates,dimethyldithiophosphate (DMDTP),urine,5,3-79,EU,LAB_DMDT,WGT_EU,0.093,µg/L,999.995,999.996,999.999,,,
+pesticides: organophosphates,dimethyldithiophosphate (DMDTP),urine,6,3-79,EU,LAB_DMDT,WGT_EU,0.093,µg/L,999.995,999.996,999.999,,,
+pesticides: pyrethroids,3-phenoxybenzoic acid (3-PBA),urine,1,6-79,HCLS,LAB_3PBA,WGT_FULL,0.01,µg/L,999.995,999.996,999.999,,,
+pesticides: pyrethroids,3-phenoxybenzoic acid (3-PBA),urine,2,3-79,EU,LAB_3PBA,WGT_EU,0.01,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: pyrethroids,3-phenoxybenzoic acid (3-PBA),urine,5,3-79,EU,LAB_3PBA,WGT_EU,0.012,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: pyrethroids,3-phenoxybenzoic acid (3-PBA),urine,6,3-79,EU,LAB_3PBA,WGT_EU,0.012,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: pyrethroids,4-fluoro-3-phenoxybenzoic acid (4-F-3-PBA),urine,1,6-79,HCLS,LAB_4F3P,WGT_FULL,0.008,µg/L,9.9995,9.9996,9.9999,,,
+pesticides: pyrethroids,4-fluoro-3-phenoxybenzoic acid (4-F-3-PBA),urine,2,3-79,EU,LAB_4F3P,WGT_EU,0.008,µg/L,99.995,99.996,99.999,,,
+pesticides: pyrethroids,4-fluoro-3-phenoxybenzoic acid (4-F-3-PBA),urine,5,3-79,EU,LAB_4F3P,WGT_EU,0.006,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: pyrethroids,4-fluoro-3-phenoxybenzoic acid (4-F-3-PBA),urine,6,3-79,EU,LAB_4F3P,WGT_EU,0.006,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane-1-carboxylic acid (cis-DBCA)",urine,1,6-79,HCLS,LAB_CDBC,WGT_FULL,0.006,µg/L,9.995,9.996,9.999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane-1-carboxylic acid (cis-DBCA)",urine,2,3-79,EU,LAB_CDBC,WGT_EU,0.006,µg/L,99.995,99.996,99.999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane-1-carboxylic acid (cis-DBCA)",urine,5,3-79,EU,LAB_CDBC,WGT_EU,0.0059,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropane-1-carboxylic acid (cis-DBCA)",urine,6,3-79,EU,LAB_CDBC,WGT_EU,0.0059,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (cis-DCCA)",urine,1,6-79,HCLS,LAB_CDCC,WGT_FULL,0.007,µg/L,999.9995,999.9996,999.9999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (cis-DCCA)",urine,2,3-79,EU,LAB_CDCC,WGT_EU,0.007,µg/L,999.995,999.996,999.999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (cis-DCCA)",urine,5,3-79,EU,LAB_CDCC,WGT_EU,0.0045,µg/L,99.9995,99.9996,99.9999,,,
+pesticides: pyrethroids,"cis-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (cis-DCCA)",urine,6,3-79,EU,LAB_CDCC,WGT_EU,0.0042,µg/L,999.9995,999.9996,999.9999,,,
+pesticides: pyrethroids,"trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (trans-DCCA)",urine,1,6-79,HCLS,LAB_TDCC,WGT_FULL,0.01,µg/L,999.995,999.996,999.999,,,
+pesticides: pyrethroids,"trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (trans-DCCA)",urine,2,3-79,EU,LAB_TDCC,WGT_EU,0.01,µg/L,9999.995,9999.996,9999.999,,,
+pesticides: pyrethroids,"trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (trans-DCCA)",urine,5,3-79,EU,LAB_TDCC,WGT_EU,0.0094,µg/L,999.9995,999.9996,999.9999,,,
+pesticides: pyrethroids,"trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane carboxylic acid (trans-DCCA)",urine,6,3-79,EU,LAB_TDCC,WGT_EU,0.0094,µg/L,999.9995,999.9996,999.9999,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic acid (CHDA)",urine,4,3-79,HECS_ABC,LAB_CHDA,WGT_HECS,0.3,µg/L,999.95,999.96,999.99,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic acid (CHDA)",urine,5,3-79,EU,LAB_CHDA,WGT_EU,0.3,µg/L,99.95,99.96,99.99,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic acid (CHDA)",urine,6,3-79,EU,LAB_CHDA,WGT_EU,0.3,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: DINCH,"cis-cyclohexane-1,2-dicarboxylic mono carboxyisononyl ester (cis-cx-MINCH)",urine,5,3-79,EU,LAB_CHDC,WGT_EU,0.059,µg/L,99.995,99.996,99.999,,,
+plasticizers: DINCH,"cis-cyclohexane-1,2-dicarboxylic mono carboxyisononyl ester (cis-cx-MINCH)",urine,6,3-79,EU,LAB_CHDC,WGT_EU,0.059,µg/L,999.995,999.996,999.999,,,
+plasticizers: DINCH,"trans-cyclohexane-1,2-diarboxylic mono carboxyisononyl ester (trans-cx-MINCH)",urine,5,3-79,EU,LAB_CHDT,WGT_EU,0.33,µg/L,99.95,99.96,99.99,,,
+plasticizers: DINCH,"trans-cyclohexane-1,2-diarboxylic mono carboxyisononyl ester (trans-cx-MINCH)",urine,6,3-79,EU,LAB_CHDT,WGT_EU,0.33,µg/L,999.95,999.96,999.99,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic mono hydroxyisononyl ester (OH-MINCH)",urine,5,3-79,EU,LAB_CHDH,WGT_EU,0.078,µg/L,99.995,99.996,99.999,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic mono hydroxyisononyl ester (OH-MINCH)",urine,6,3-79,EU,LAB_CHDH,WGT_EU,0.071,µg/L,999.995,999.996,999.999,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic mono oxoisononyl ester (oxo-MINCH)",urine,5,3-79,EU,LAB_CHDO,WGT_EU,0.047,µg/L,99.995,99.996,99.999,,,
+plasticizers: DINCH,"cyclohexane-1,2-dicarboxylic mono oxoisononyl ester (oxo-MINCH)",urine,6,3-79,EU,LAB_CHDO,WGT_EU,0.047,µg/L,999.995,999.996,999.999,,,
+plasticizers: DINCH,"trans-cyclohexane-1,2-dicarboxylic mono isononyl ester (trans-MINCH)",urine,5,3-79,EU,LAB_MINC,WGT_EU,0.017,µg/L,9.995,9.996,9.999,,,
+plasticizers: DINCH,"trans-cyclohexane-1,2-dicarboxylic mono isononyl ester (trans-MINCH)",urine,6,3-79,EU,LAB_MINC,WGT_EU,0.017,µg/L,99.995,99.996,99.999,,,
+plasticizers: phthalates,mono-benzyl phthalate (MBzP),urine,1,6-49,PHTH,LAB_MBZP,WGT_PHTH,0.2,µg/L,9999.999995,9999.999996,9999.999999,,,
+plasticizers: phthalates,mono-benzyl phthalate (MBzP),urine,2,3-79,EU,LAB_MBZP,WGT_EU,0.05,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-benzyl phthalate (MBzP),urine,5,3-79,EU,LAB_MBZP,WGT_EU,0.37,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-benzyl phthalate (MBzP),urine,6,3-79,EU,LAB_MBZP,WGT_EU,0.14,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono(2-carboxymethylhexyl) phthalate (MCMHP),urine,5,3-79,EU,LAB_MCMH,WGT_EU,0.27,µg/L,999.95,999.96,999.99,,,
+plasticizers: phthalates,mono(2-carboxymethylhexyl) phthalate (MCMHP),urine,6,3-79,EU,LAB_MCMH,WGT_EU,0.27,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(2-ethyl-5-carboxypentyl) phthalate (MECPP),urine,5,3-79,EU,LAB_MECP,WGT_EU,0.28,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono(2-ethyl-5-carboxypentyl) phthalate (MECPP),urine,6,3-79,EU,LAB_MECP,WGT_EU,0.28,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-(2-ethyl-5-hydroxyhexyl) phthalate (MEHHP),urine,1,6-49,PHTH,LAB_MEHH,WGT_PHTH,0.4,µg/L,9999.999995,9999.999996,9999.999999,,,
+plasticizers: phthalates,mono-(2-ethyl-5-hydroxyhexyl) phthalate (MEHHP),urine,2,3-79,EU,LAB_MEHH,WGT_EU,0.4,µg/L,99999.5,99999.6,99999.9,,,
+plasticizers: phthalates,mono-(2-ethyl-5-hydroxyhexyl) phthalate (MEHHP),urine,5,3-79,EU,LAB_MEHH,WGT_EU,0.22,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-(2-ethyl-5-hydroxyhexyl) phthalate (MEHHP),urine,6,3-79,EU,LAB_MEHH,WGT_EU,0.22,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-(2-ethyl-5-oxohexyl) phthalate (MEOHP),urine,1,6-49,PHTH,LAB_MEOH,WGT_PHTH,0.2,µg/L,9999.999995,9999.999996,9999.999999,,,
+plasticizers: phthalates,mono-(2-ethyl-5-oxohexyl) phthalate (MEOHP),urine,2,3-79,EU,LAB_MEOH,WGT_EU,0.1,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-(2-ethyl-5-oxohexyl) phthalate (MEOHP),urine,5,3-79,EU,LAB_MEOH,WGT_EU,0.17,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-(2-ethyl-5-oxohexyl) phthalate (MEOHP),urine,6,3-79,EU,LAB_MEOH,WGT_EU,0.17,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-2-ethylhexyl phthalate (MEHP),urine,1,6-49,PHTH,LAB_MEHP,WGT_PHTH,0.2,µg/L,9999.999995,9999.999996,9999.999999,,,
+plasticizers: phthalates,mono-2-ethylhexyl phthalate (MEHP),urine,2,3-79,EU,LAB_MEHP,WGT_EU,0.08,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-2-ethylhexyl phthalate (MEHP),urine,5,3-79,EU,LAB_MEHP,WGT_EU,0.11,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-2-ethylhexyl phthalate (MEHP),urine,6,3-79,EU,LAB_MEHP,WGT_EU,0.077,µg/L,9999.995,9999.996,9999.999,,,
+plasticizers: phthalates,mono-cyclohexyl phthalate (MCHP),urine,1,6-49,PHTH,LAB_MCHP,WGT_PHTH,0.2,µg/L,999.999995,999.999996,999.999999,,,
+plasticizers: phthalates,mono-cyclohexyl phthalate (MCHP),urine,2,3-79,EU,LAB_MCHP,WGT_EU,0.09,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-cyclohexyl phthalate (MCHP),urine,5,3-79,EU,LAB_MCHP,WGT_EU,0.25,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-cyclohexyl phthalate (MCHP),urine,6,3-79,EU,LAB_MCHP,WGT_EU,0.25,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-ethyl phthalate (MEP),urine,1,6-49,PHTH,LAB_MEP,WGT_PHTH,0.5,µg/L,99999.999995,99999.999996,99999.999999,,,
+plasticizers: phthalates,mono-ethyl phthalate (MEP),urine,2,3-79,EU,LAB_MEP,WGT_EU,0.3,µg/L,999999.5,999999.6,999999.9,,,
+plasticizers: phthalates,mono-ethyl phthalate (MEP),urine,5,3-79,EU,LAB_MEP,WGT_EU,0.98,µg/L,999999.5,999999.6,999999.9,,,
+plasticizers: phthalates,mono-ethyl phthalate (MEP),urine,6,3-79,EU,LAB_MEP,WGT_EU,0.76,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-isobutyl phthalate (MiBP),urine,2,3-79,EU,LAB_MIBP,WGT_EU,0.1,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-isobutyl phthalate (MiBP),urine,5,3-79,EU,LAB_MIBP,WGT_EU,0.57,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-isobutyl phthalate (MiBP),urine,6,3-79,EU,LAB_MIBP,WGT_EU,0.57,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,monocarboxyisononyl phthalate (MCiNP),urine,5,3-79,EU,LAB_MCIN,WGT_EU,0.077,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,monocarboxyisononyl phthalate (MCiNP),urine,6,3-79,EU,LAB_MCIN,WGT_EU,0.075,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,monohydroxyisodecyl phthalate (MHiDP),urine,5,3-79,EU,LAB_MHID,WGT_EU,0.067,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,monohydroxyisodecyl phthalate (MHiDP),urine,6,3-79,EU,LAB_MHID,WGT_EU,0.065,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,monoisodecyl phthalate (MIDP),urine,5,3-79,EU,LAB_MIDP,WGT_EU,0.16,µg/L,9.95,9.96,9.99,,,
+plasticizers: phthalates,monoisodecyl phthalate (MIDP),urine,6,3-79,EU,LAB_MIDP,WGT_EU,0.16,µg/L,99.95,99.96,99.99,,,
+plasticizers: phthalates,monooxoisodecyl phthalate (MOiDP),urine,5,3-79,EU,LAB_MOID,WGT_EU,0.097,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,monooxoisodecyl phthalate (MOiDP),urine,6,3-79,EU,LAB_MOID,WGT_EU,0.097,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(carboxyisooctyl) phthalate (MCIOP),urine,5,3-79,EU,LAB_MCIO,WGT_EU,0.3,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(carboxyisooctyl) phthalate (MCIOP),urine,6,3-79,EU,LAB_MCIO,WGT_EU,0.13,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(hydroxyisononyl) phthalate (MHINP),urine,5,3-79,EU,LAB_MHIN,WGT_EU,0.065,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(hydroxyisononyl) phthalate (MHINP),urine,6,3-79,EU,LAB_MHIN,WGT_EU,0.065,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono(oxoisononyl) phthalate (MOINP),urine,5,3-79,EU,LAB_MOIN,WGT_EU,0.15,µg/L,999.95,999.96,999.99,,,
+plasticizers: phthalates,mono(oxoisononyl) phthalate (MOINP),urine,6,3-79,EU,LAB_MOIN,WGT_EU,0.15,µg/L,999.995,999.996,999.999,,,
+plasticizers: phthalates,mono-isononyl phthalate (MiNP),urine,1,6-49,PHTH,LAB_MNP,WGT_PHTH,0.4,µg/L,99.999995,99.999996,99.999999,,,
+plasticizers: phthalates,mono-isononyl phthalate (MiNP),urine,2,3-79,EU,LAB_MNP,WGT_EU,0.3,µg/L,99.5,99.6,99.9,,,
+plasticizers: phthalates,mono-isononyl phthalate (MiNP),urine,5,3-79,EU,LAB_MNP,WGT_EU,0.37,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-isononyl phthalate (MiNP),urine,6,3-79,EU,LAB_MNP,WGT_EU,0.15,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-methyl phthalate (MMP),urine,1,6-49,PHTH,LAB_MMP,WGT_PHTH,5,µg/L,99999.99995,99999.99996,99999.99999,,,
+plasticizers: phthalates,mono-methyl phthalate (MMP),urine,2,3-79,EU,LAB_MMP,WGT_EU,5,µg/L,999995,999996,999999,,,
+plasticizers: phthalates,mono-methyl phthalate (MMP),urine,5,3-79,EU,LAB_MMP,WGT_EU,0.21,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-methyl phthalate (MMP),urine,6,3-79,EU,LAB_MMP,WGT_EU,0.21,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-3-hydroxy-n-butyl phthalate (3OH-MBP),urine,5,3-79,EU,LAB_MHNB,WGT_EU,0.079,µg/L,9999.995,9999.996,9999.999,,,
+plasticizers: phthalates,mono-3-hydroxy-n-butyl phthalate (3OH-MBP),urine,6,3-79,EU,LAB_MHNB,WGT_EU,0.068,µg/L,9999.995,9999.996,9999.999,,,
+plasticizers: phthalates,mono-n-butyl phthalate (MnBP),urine,1,6-49,PHTH,LAB_MBP,WGT_PHTH,0.2,µg/L,99999.999995,99999.999996,99999.999999,,,
+plasticizers: phthalates,mono-n-butyl phthalate (MnBP),urine,2,3-79,EU,LAB_MBP,WGT_EU,0.2,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-n-butyl phthalate (MnBP),urine,5,3-79,EU,LAB_MBP,WGT_EU,0.6,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-n-butyl phthalate (MnBP),urine,6,3-79,EU,LAB_MBP,WGT_EU,0.6,µg/L,99999.95,99999.96,99999.99,,,
+plasticizers: phthalates,mono-carboxy-n-heptyl phthalate (MCHpP),urine,5,3-79,EU,LAB_MCNH,WGT_EU,0.083,µg/L,9.95,9.96,9.99,,,
+plasticizers: phthalates,mono-carboxy-n-heptyl phthalate (MCHpP),urine,6,3-79,EU,LAB_MCNH,WGT_EU,0.083,µg/L,9.995,9.996,9.999,,,
+plasticizers: phthalates,mono-n-octyl phthalate (MOP),urine,1,6-49,PHTH,LAB_MOP,WGT_PHTH,0.6,µg/L,9.999995,9.999996,9.999999,,,
+plasticizers: phthalates,mono-n-octyl phthalate (MOP),urine,2,3-79,EU,LAB_MOP,WGT_EU,0.3,µg/L,99.5,99.6,99.9,,,
+plasticizers: phthalates,mono-n-octyl phthalate (MOP),urine,5,3-79,EU,LAB_MOP,WGT_EU,0.16,µg/L,99.5,99.6,99.9,,,
+plasticizers: phthalates,mono-n-octyl phthalate (MOP),urine,6,3-79,EU,LAB_MOP,WGT_EU,0.16,µg/L,99.95,99.96,99.99,,,
+plasticizers: phthalates,mono-3-carboxypropyl phthalate (MCPP),urine,1,6-49,PHTH,LAB_MCPP,WGT_PHTH,0.156,µg/L,999.999995,999.999996,999.999999,,,
+plasticizers: phthalates,mono-3-carboxypropyl phthalate (MCPP),urine,2,3-79,EU,LAB_MCPP,WGT_EU,0.06,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-3-carboxypropyl phthalate (MCPP),urine,5,3-79,EU,LAB_MCPP,WGT_EU,0.14,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: phthalates,mono-3-carboxypropyl phthalate (MCPP),urine,6,3-79,EU,LAB_MCPP,WGT_EU,0.14,µg/L,9999.95,9999.96,9999.99,,,
+plasticizers: TEHT,1-mono(2-ethylhexyl)trimellitate (1-MEHTM),urine,5,3-79,EU,LAB_1MEH,WGT_EU,0.22,µg/L,9.95,9.96,9.99,,,
+plasticizers: TEHT,1-mono(2-ethylhexyl)trimellitate (1-MEHTM),urine,6,3-79,EU,LAB_1MEH,WGT_EU,0.22,µg/L,9.95,9.96,9.99,,,
+plasticizers: TEHT,2-mono(2-ethylhexyl)trimellitate (2-MEHTM),urine,5,3-79,EU,LAB_2MEH,WGT_EU,0.16,µg/L,99.95,99.96,99.99,,,
+plasticizers: TEHT,2-mono(2-ethylhexyl)trimellitate (2-MEHTM),urine,6,3-79,EU,LAB_2MEH,WGT_EU,0.16,µg/L,99.95,99.96,99.99,,,
+plasticizers: TEHT,4-mono(2-ethylhexyl)trimellitate (4-MEHTM),urine,5,3-79,EU,LAB_4MEH,WGT_EU,0.098,µg/L,9.995,9.996,9.999,,,
+plasticizers: TEHT,4-mono(2-ethylhexyl)trimellitate (4-MEHTM),urine,6,3-79,EU,LAB_4MEH,WGT_EU,0.098,µg/L,9.995,9.996,9.999,,,
+plasticizers: TXIB,"2,2,4-trimethyl-1,3-pentanediol (TMPD)",urine,4,3-79,HECS_ABC,LAB_TMPD,WGT_HECS,1.7,µg/L,9999.5,9999.6,9999.9,,,
+plasticizers: TXIB,"2,2,4-trimethyl-1,3-pentanediol (TMPD)",urine,5,3-79,EU,LAB_TMPD,WGT_EU,1.7,µg/L,9999.5,9999.6,9999.9,,,
+plasticizers: TXIB,"2,2,4-trimethyl-1,3-pentanediol (TMPD)",urine,6,3-79,EU,LAB_TMPD,WGT_EU,1.7,µg/L,9999.5,9999.6,9999.9,,,
+plasticizers: TXIB,"2,2,4-trimethyl-3-hydroxy valeric acid (HTMV)",urine,4,3-79,HECS_ABC,LAB_HTMV,WGT_HECS,0.42,µg/L,999.95,999.96,999.99,,,
+plasticizers: TXIB,"2,2,4-trimethyl-3-hydroxy valeric acid (HTMV)",urine,5,3-79,EU,LAB_HTMV,WGT_EU,0.42,µg/L,999.95,999.96,999.99,,,
+plasticizers: TXIB,"2,2,4-trimethyl-3-hydroxy valeric acid (HTMV)",urine,6,3-79,EU,LAB_HTMV,WGT_EU,0.42,µg/L,999.95,999.96,999.99,,,
+polychlorinated biphenyls (PCBs),"2,4,4'-trichlorobiphenyl (PCB 28)",plasma,1,20-79,PBDE,PCB_028,WGT_PBDE,0.05,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',5,5'-tetrachlorobiphenyl (PCB 52)",plasma,1,20-79,PBDE,PCB_052,WGT_PBDE,0.3,µg/L,9.995,9.996,9.999,,,
+polychlorinated biphenyls (PCBs),"2,3',4,4'-tetrachlorobiphenyl (PCB 66)",plasma,1,20-79,PBDE,PCB_066,WGT_PBDE,0.03,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,4,4',5-tetrachlorobiphenyl (PCB 74)",plasma,1,20-79,PBDE,PCB_074,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',4,4',5-pentachlorobiphenyl (PCB 99)",plasma,1,20-79,PBDE,PCB_099,WGT_PBDE,0.03,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',4,5,5'-pentachlorobiphenyl (PCB 101)",plasma,1,20-79,PBDE,PCB_101,WGT_PBDE,0.03,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,3,3',4,4'-pentachlorobiphenyl (PCB 105)",plasma,1,20-79,PBDE,PCB_105,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,3',4,4',5-pentachlorobiphenyl (PCB 118)",plasma,1,20-79,PBDE,PCB_118,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',4,4'-hexachlorobiphenyl (PCB 128)",plasma,1,20-79,PBDE,PCB_128,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4,4',5'-hexachlorobiphenyl (PCB 138)",plasma,1,20-79,PBDE,PCB_138,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4',5,5'-hexachlorobiphenyl (PCB 146)",plasma,1,20-79,PBDE,PCB_146,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',4,4',5,5'-hexachlorobiphenyl (PCB 153)",plasma,1,20-79,PBDE,PCB_153,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,3,3',4,4',5-hexachlorobiphenyl (PCB 156)",plasma,1,20-79,PBDE,PCB_156,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,3,3',4',5,6-hexachlorobiphenyl (PCB 163)",plasma,1,20-79,PBDE,PCB_163,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,3',4,4',5,5'-hexachlorobiphenyl (PCB 167)",plasma,1,20-79,PBDE,PCB_167,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',4,4',5-heptachlorobiphenyl (PCB 170)",plasma,1,20-79,PBDE,PCB_170,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',5,5',6-heptachlorobiphenyl (PCB 178)",plasma,1,20-79,PBDE,PCB_178,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4,4',5,5'-heptachlorobiphenyl (PCB 180)",plasma,1,20-79,PBDE,PCB_180,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4,4',5',6-heptachlorobiphenyl (PCB 183)",plasma,1,20-79,PBDE,PCB_183,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4',5,5',6-heptachlorobiphenyl (PCB 187)",plasma,1,20-79,PBDE,PCB_187,WGT_PBDE,0.01,µg/L,9.9995,9.9996,9.9999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',4,4',5,5'-octachlorobiphenyl (PCB 194)",plasma,1,20-79,PBDE,PCB_194,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',4,5',6,6'-octachlorobiphenyl (PCB 201)",plasma,1,20-79,PBDE,PCB_201,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,4,4',5,5',6-octachlorobiphenyl (PCB 203)",plasma,1,20-79,PBDE,PCB_203,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polychlorinated biphenyls (PCBs),"2,2',3,3',4,4',5,5',6-nonachlorobiphenyl (PCB 206)",plasma,1,20-79,PBDE,PCB_206,WGT_PBDE,0.01,µg/L,9.99995,9.99996,9.99999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxybenzo[a]pyrene,urine,2,3-79,EU,LAB_3HBP,WGT_EU,0.002,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxybenzo[a]pyrene,urine,3,3-79,EU,LAB_3HBP,WGT_EU,0.0029,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxybenzo[a]pyrene,urine,4,3-79,EU,LAB_3HBP,WGT_EU,0.0029,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxychrysene,urine,2,3-79,EU,LAB_2HC,WGT_EU,0.004,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxychrysene,urine,3,3-79,EU,LAB_2HC,WGT_EU,0.0054,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxychrysene,urine,4,3-79,EU,LAB_2HC,WGT_EU,0.0054,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxychrysene,urine,2,3-79,EU,LAB_3HC,WGT_EU,0.003,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxychrysene,urine,3,3-79,EU,LAB_3HC,WGT_EU,0.0026,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxychrysene,urine,4,3-79,EU,LAB_3HC,WGT_EU,0.0026,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxychrysene,urine,2,3-79,EU,LAB_4HC,WGT_EU,0.003,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxychrysene,urine,3,3-79,EU,LAB_4HC,WGT_EU,0.0023,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxychrysene,urine,4,3-79,EU,LAB_4HC,WGT_EU,0.0023,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),6-hydroxychrysene,urine,2,3-79,EU,LAB_6HC,WGT_EU,0.006,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),6-hydroxychrysene,urine,3,3-79,EU,LAB_6HC,WGT_EU,0.0025,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),6-hydroxychrysene,urine,4,3-79,EU,LAB_6HC,WGT_EU,0.0025,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluoranthene,urine,2,3-79,EU,LAB_3HFT,WGT_EU,0.008,µg/L,9.995,9.996,9.999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluoranthene,urine,3,3-79,EU,LAB_3HFT,WGT_EU,0.008,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluoranthene,urine,4,3-79,EU,LAB_3HFT,WGT_EU,0.008,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyfluorene,urine,2,3-79,EU,LAB_2HF,WGT_EU,0.003,µg/L,999.995,999.996,999.999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyfluorene,urine,3,3-79,EU,LAB_2HF,WGT_EU,0.0064,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyfluorene,urine,4,3-79,EU,LAB_2HF,WGT_EU,0.0064,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluorene,urine,2,3-79,EU,LAB_3HF,WGT_EU,0.001,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluorene,urine,3,3-79,EU,LAB_3HF,WGT_EU,0.002,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyfluorene,urine,4,3-79,EU,LAB_3HF,WGT_EU,0.002,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyfluorene,urine,2,3-79,EU,LAB_9HF,WGT_EU,0.003,µg/L,999.9995,999.9996,999.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyfluorene,urine,3,3-79,EU,LAB_9HF,WGT_EU,0.0045,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyfluorene,urine,4,3-79,EU,LAB_9HF,WGT_EU,0.0045,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxynaphthalene,urine,2,3-79,EU,LAB_1HN,WGT_EU,0.1,µg/L,99999.95,99999.96,99999.99,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxynaphthalene,urine,3,3-79,EU,LAB_1HN,WGT_EU,0.021,µg/L,9999.95,9999.96,9999.99,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxynaphthalene,urine,4,3-79,EU,LAB_1HN,WGT_EU,0.021,µg/L,9999.95,9999.96,9999.99,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxynaphthalene,urine,2,3-79,EU,LAB_2HN,WGT_EU,0.05,µg/L,9999.95,9999.96,9999.99,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxynaphthalene,urine,3,3-79,EU,LAB_2HN,WGT_EU,0.031,µg/L,999.995,999.996,999.999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxynaphthalene,urine,4,3-79,EU,LAB_2HN,WGT_EU,0.031,µg/L,999.995,999.996,999.999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxyphenanthrene,urine,2,3-79,EU,LAB_1HPT,WGT_EU,0.005,µg/L,99.995,99.996,99.999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxyphenanthrene,urine,3,3-79,EU,LAB_1HPT,WGT_EU,0.0024,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxyphenanthrene,urine,4,3-79,EU,LAB_1HPT,WGT_EU,0.0024,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyphenanthrene,urine,2,3-79,EU,LAB_2HPT,WGT_EU,0.003,µg/L,99.995,99.996,99.999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyphenanthrene,urine,3,3-79,EU,LAB_2HPT,WGT_EU,0.0025,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),2-hydroxyphenanthrene,urine,4,3-79,EU,LAB_2HPT,WGT_EU,0.0025,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyphenanthrene,urine,2,3-79,EU,LAB_3HPT,WGT_EU,0.003,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyphenanthrene,urine,3,3-79,EU,LAB_3HPT,WGT_EU,0.0021,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),3-hydroxyphenanthrene,urine,4,3-79,EU,LAB_3HPT,WGT_EU,0.0021,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxyphenanthrene,urine,2,3-79,EU,LAB_4HPT,WGT_EU,0.001,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxyphenanthrene,urine,3,3-79,EU,LAB_4HPT,WGT_EU,0.0031,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),4-hydroxyphenanthrene,urine,4,3-79,EU,LAB_4HPT,WGT_EU,0.0031,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyphenanthrene,urine,2,3-79,EU,LAB_9HPT,WGT_EU,0.004,µg/L,99.995,99.996,99.999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyphenanthrene,urine,3,3-79,EU,LAB_9HPT,WGT_EU,0.004,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),9-hydroxyphenanthrene,urine,4,3-79,EU,LAB_9HPT,WGT_EU,0.004,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxypyrene,urine,2,3-79,EU,LAB_1HP,WGT_EU,0.002,µg/L,99.9995,99.9996,99.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxypyrene,urine,3,3-79,EU,LAB_1HP,WGT_EU,0.0029,µg/L,9.9995,9.9996,9.9999,,,
+polycyclic aromatic hydrocarbons (PAHs),1-hydroxypyrene,urine,4,3-79,EU,LAB_1HP,WGT_EU,0.0029,µg/L,9.9995,9.9996,9.9999,,,
+ultraviolet compounds,"2,4-dihydroxybenzophenone (benzophenone-1)",urine,6,3-79,HECS_GYM,LAB_BP1,WGT_HECS,0.017,µg/L,99999.995,99999.996,99999.999,,,
+ultraviolet compounds,"2,2’,4,4’-tetrahydroxybenzophenone (benzophenone-2)",urine,6,3-79,HECS_GYM,LAB_BP2,WGT_HECS,0.050,µg/L,9.95,9.96,9.99,,,
+ultraviolet compounds,2-hydroxy-4-methoxybenzophenone (benzophenone-3),urine,6,3-79,HECS_GYM,LAB_BP3,WGT_HECS,0.032,µg/L,99999.95,99999.96,99999.99,,,
+ultraviolet compounds,"2,2’-dihydroxy-4-methoxybenzophenone (benzophenone-8)",urine,6,3-79,HECS_GYM,LAB_BP8,WGT_HECS,0.015,µg/L,9.995,9.996,9.999,,,
+ultraviolet compounds,4-hydroxybenzophenone (4-OH-benzophenone),urine,6,3-79,HECS_GYM,LAB_4OHB,WGT_HECS,0.045,µg/L,99.995,99.996,99.999,,,
+ultraviolet compounds,3-(4-methylbenzylidene)-camphor (enzacamene),urine,6,3-79,HECS_GYM,LAB_4MBC,WGT_HECS,0.038,µg/L,9.995,9.996,9.999,,,
+ultraviolet compounds,4-dimethylaminobenzoic acid,urine,6,3-79,HECS_GYM,LAB_DABA,WGT_HECS,0.0054,µg/L,999.9995,999.9996,999.9999,,,
+ultraviolet compounds,4-methylaminobenzoic acid,urine,6,3-79,HECS_GYM,LAB_MABA,WGT_HECS,0.0050,µg/L,999.9995,999.9996,999.9999,,,
+volatile organic compounds (VOCs),"1,4-dichlorobenzene",blood,5,12-79,BVOC,LAB_BDBZ,WGT_BVOC,0.013,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),"2,5-dimethylfuran",blood,5,12-79,BVOC,LAB_BDFU,WGT_BVOC,0.018,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),"1,1,1,2-tetrachloroethane",blood,5,12-79,BVOC,LAB_TCLE,WGT_BVOC,0.007,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),benzene  ,blood,3,12-79,VOCP,LAB_BBNZ,WGT_VOCP,0.007,µg/L,99.9995,99.9996,99.9999,,,
+volatile organic compounds (VOCs),benzene  ,blood,4,12-79,VOCP,LAB_BBNZ,WGT_VOCP,0.007,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),benzene  ,blood,5,12-79,BVOC,LAB_BBNZ,WGT_BVOC,0.022,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),phenol,urine,2,3-79,EU,LAB_PHEN,WGT_EU,0.1,mg/L,9999.95,9999.96,9999.99,,,
+volatile organic compounds (VOCs),S-phenylmercapturic acid (S-PMA),urine,2,3-79,EU,LAB_SPMA,WGT_EU,0.08,µg/L,999.95,999.96,999.99,,,
+volatile organic compounds (VOCs),S-phenylmercapturic acid (S-PMA),urine,3,3-79,EU,LAB_SPMA,WGT_EU,0.08,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),S-phenylmercapturic acid (S-PMA),urine,4,3-79,EU,LAB_SPMA,WGT_EU,0.08,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),"trans,trans-muconic acid (t,t-MA)",urine,2,3-79,EU,LAB_TMA,WGT_EU,0.8,µg/L,99999.5,99999.6,99999.9,,,
+volatile organic compounds (VOCs),"trans,trans-muconic acid (t,t-MA)",urine,3,3-79,EU,LAB_TMA,WGT_EU,0.61,µg/L,9999.5,9999.6,9999.9,,,
+volatile organic compounds (VOCs),"trans,trans-muconic acid (t,t-MA)",urine,4,3-79,EU,LAB_TMA,WGT_EU,0.61,µg/L,9999.5,9999.6,9999.9,,,
+volatile organic compounds (VOCs),bromodichloromethane,blood,3,12-79,VOCP,LAB_BBDM,WGT_VOCP,0.012,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),bromodichloromethane,blood,4,12-79,VOCP,LAB_BBDM,WGT_VOCP,0.012,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),bromodichloromethane,blood,5,12-79,BVOC,LAB_BBDM,WGT_BVOC,0.005,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),carbon tetrachloride,blood,5,12-79,BVOC,LAB_CTCL,WGT_BVOC,0.005,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),dibromochloromethane,blood,3,12-79,VOCP,LAB_BDCM,WGT_VOCP,0.007,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),dibromochloromethane,blood,4,12-79,VOCP,LAB_BDCM,WGT_VOCP,0.007,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),dibromochloromethane,blood,5,12-79,BVOC,LAB_BDCM,WGT_BVOC,0.005,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),ethylbenzene,blood,3,12-79,VOCP,LAB_BEBZ,WGT_VOCP,0.011,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),ethylbenzene,blood,4,12-79,VOCP,LAB_BEBZ,WGT_VOCP,0.011,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),ethylbenzene,blood,5,12-79,BVOC,LAB_BEBZ,WGT_BVOC,0.013,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),isopropylbenzene,blood,5,12-79,BVOC,LAB_BIBZ,WGT_BVOC,0.01,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),methyl isobutyl ketone (MIBK),blood,5,12-79,BVOC,LAB_BMP,WGT_BVOC,0.029,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),nitrobenzene,blood,5,12-79,BVOC,LAB_BNBZ,WGT_BVOC,1.135,µg/L,9.5,9.6,9.9,,,
+volatile organic compounds (VOCs),styrene,blood,3,12-79,VOCP,LAB_BSTY,WGT_VOCP,0.012,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),styrene,blood,4,12-79,VOCP,LAB_BSTY,WGT_VOCP,0.012,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),styrene,blood,5,12-79,BVOC,LAB_BSTY,WGT_BVOC,0.011,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),tetrachloroethylene,blood,3,12-79,VOCP,LAB_BPCE,WGT_VOCP,0.02,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),tetrachloroethylene,blood,4,12-79,VOCP,LAB_BPCE,WGT_VOCP,0.02,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),tetrachloroethylene,blood,5,12-79,BVOC,LAB_BPCE,WGT_BVOC,0.013,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),tetrahydrofuran,blood,5,12-79,BVOC,LAB_BTFU,WGT_BVOC,0.015,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),toluene,blood,3,12-79,VOCP,LAB_BTOL,WGT_VOCP,0.011,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),toluene,blood,4,12-79,VOCP,LAB_BTOL,WGT_VOCP,0.011,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),toluene,blood,5,12-79,BVOC,LAB_BTOL,WGT_BVOC,0.012,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),tribromomethane (bromoform),blood,3,12-79,VOCP,LAB_BBF,WGT_VOCP,0.01,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),tribromomethane (bromoform),blood,4,12-79,VOCP,LAB_BBF,WGT_VOCP,0.01,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),tribromomethane (bromoform),blood,5,12-79,BVOC,LAB_BBF,WGT_BVOC,0.013,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),trichloroethylene,blood,3,12-79,VOCP,LAB_BTCE,WGT_VOCP,0.027,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),trichloroethylene,blood,4,12-79,VOCP,LAB_BTCE,WGT_VOCP,0.027,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),trichloroethylene,blood,5,12-79,BVOC,LAB_BTCE,WGT_BVOC,0.01,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),trichloromethane (chloroform),blood,3,12-79,VOCP,LAB_BCF,WGT_VOCP,0.014,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),trichloromethane (chloroform),blood,4,12-79,VOCP,LAB_BCF,WGT_VOCP,0.014,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),trichloromethane (chloroform),blood,5,12-79,BVOC,LAB_BCF,WGT_BVOC,0.006,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),m-xylene & p-xylene,blood,3,12-79,VOCP,LAB_BMPX,WGT_VOCP,0.023,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),m-xylene & p-xylene,blood,4,12-79,VOCP,LAB_BMPX,WGT_VOCP,0.023,µg/L,9.995,9.996,9.999,,,
+volatile organic compounds (VOCs),m-xylene & p-xylene,blood,5,12-79,BVOC,LAB_BMPX,WGT_BVOC,0.005,µg/L,99.995,99.996,99.999,,,
+volatile organic compounds (VOCs),o-xylene,blood,3,12-79,VOCP,LAB_BOX,WGT_VOCP,0.009,µg/L,99.9995,99.9996,99.9999,,,
+volatile organic compounds (VOCs),o-xylene,blood,4,12-79,VOCP,LAB_BOX,WGT_VOCP,0.009,µg/L,9.9995,9.9996,9.9999,,,
+volatile organic compounds (VOCs),o-xylene,blood,5,12-79,BVOC,LAB_BOX,WGT_BVOC,0.006,µg/L,9.9995,9.9996,9.9999,,,
