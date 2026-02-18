@@ -1,3 +1,7 @@
+18 Feb 2026
+- Changed chemical name "cotinine" (LAB_COT, LAB_SCOT) to "cotinine (free)"
+- Added 12 nicotine and NNK chemicals measured in cycles 1 to 6
+
 28 Jan 2026
 - Corrected LOD and reserve codes for LAB_BCD in cycle 7
 
