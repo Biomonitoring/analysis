@@ -1,8 +1,14 @@
+15 Apr 2026
+- Added 56 chemicals measured in cycle 7 (EL_SUB)
+- Changed the chemical group "personal care and consumer product chemicals" to "self-care and consumer product chemicals", which now includes sub-categories
+- Changed the chemical group "flame retardants: PBDEs" to "flame retardants: polybrominated diphenyl ethers (PBDEs)"
+- Changed the chlorinated paraffin naming convention from "C#H#Cl# congeners" to "C#Cl# congeners"
+
 01 Apr 2026
 - Corrected LODs for LAB_DC13, LAB_PC14, LAB_DC16, LAB_DC17 in cycle 7
 
 21 Mar 2026
-- Added 50 chlorinated paraffin biomarkers measured in cycle 7
+- Added 50 chlorinated paraffin biomarkers measured in cycle 7 (EB_SUB)
 
 18 Feb 2026
 - Changed chemical name "cotinine" (LAB_COT, LAB_SCOT) to "cotinine (free)"
@@ -12,7 +18,7 @@
 - Corrected LOD and reserve codes for LAB_BCD in cycle 7
 
 23 Jan 2026
-- Added 20 chemicals and urine creatinine measured in cycle 7
+- Added 20 chemicals and urine creatinine measured in cycle 7 (EL_FULL)
 
 09 Jan 2026
 - Added 25 hair metals measured in cycle 5
