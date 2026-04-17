@@ -1,3 +1,6 @@
+17 Apr 2026
+- Corrected NS code for LAB_IMID and LAB_TBPH in cycle 7
+
 15 Apr 2026
 - Added 56 chemicals measured in cycle 7 (EL_SUB)
 - Changed the chemical group "personal care and consumer product chemicals" to "self-care and consumer product chemicals", which now includes sub-categories
